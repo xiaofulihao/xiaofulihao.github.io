@@ -4,7 +4,26 @@
   
     
     <entry>
-      <title>Hello World</title>
+      <title>第一篇博客</title>
+      <link href="/posts/ff05b5bf.html"/>
+      <url>/posts/ff05b5bf.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo,记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>你好世界</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
       
@@ -17,6 +36,17 @@
     
   
   
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
   
 </search>
