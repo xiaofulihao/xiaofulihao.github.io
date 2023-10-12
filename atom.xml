@@ -3,11 +3,11 @@
   <title>记录</title>
   
   <subtitle>终于自己，热爱生活</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://xiaofulihao.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-10-08T01:48:52.844Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://xiaofulihao.github.io/project/"/>
+  <updated>2023-10-11T07:26:59.188Z</updated>
+  <id>https://xiaofulihao.github.io/project/</id>
   
   <author>
     <name>Oscar_慕泽</name>
@@ -18,23 +18,31 @@
   
   <entry>
     <title>第一篇博客</title>
-    <link href="http://example.com/posts/ff05b5bf.html"/>
-    <id>http://example.com/posts/ff05b5bf.html</id>
+    <link href="https://xiaofulihao.github.io/project/posts/ff05b5bf.html"/>
+    <id>https://xiaofulihao.github.io/project/posts/ff05b5bf.html</id>
     <published>2023-10-08T00:53:37.000Z</published>
-    <updated>2023-10-08T01:48:52.844Z</updated>
+    <updated>2023-10-11T07:26:59.188Z</updated>
+    
+    <content type="html"><![CDATA[<p>“#”可以控制标题大小，最多6个<br>如下：</p><h1 id="标题测试"><a href="#标题测试" class="headerlink" title="标题测试"></a>标题测试</h1><h2 id="标题测试-1"><a href="#标题测试-1" class="headerlink" title="标题测试"></a>标题测试</h2><h3 id="标题测试-2"><a href="#标题测试-2" class="headerlink" title="标题测试"></a>标题测试</h3><h4 id="标题测试-3"><a href="#标题测试-3" class="headerlink" title="标题测试"></a>标题测试</h4><h5 id="标题测试-4"><a href="#标题测试-4" class="headerlink" title="标题测试"></a>标题测试</h5><h6 id="标题测试-5"><a href="#标题测试-5" class="headerlink" title="标题测试"></a>标题测试</h6>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;“#”可以控制标题大小，最多6个&lt;br&gt;如下：&lt;/p&gt;
+&lt;h1 id=&quot;标题测试&quot;&gt;&lt;a href=&quot;#标题测试&quot; class=&quot;headerlink&quot; title=&quot;标题测试&quot;&gt;&lt;/a&gt;标题测试&lt;/h1&gt;&lt;h2 id=&quot;标题测试-1&quot;&gt;&lt;a href=&quot;#标题测试-1&quot; </summary>
+      
     
     
     
     
-    
-    <category term="hexo,记录" scheme="http://example.com/tags/hexo-%E8%AE%B0%E5%BD%95/"/>
+    <category term="hexo,记录" scheme="https://xiaofulihao.github.io/project/tags/hexo-%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
   <entry>
     <title>你好世界</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://xiaofulihao.github.io/project/posts/4a17b156.html"/>
+    <id>https://xiaofulihao.github.io/project/posts/4a17b156.html</id>
     <published>2023-10-07T03:21:39.495Z</published>
     <updated>2023-10-08T00:53:56.318Z</updated>
     

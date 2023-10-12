@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://xiaofulihao.github.io/project/posts/ff05b5bf.html</loc>
+    
+    <lastmod>2023-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaofulihao.github.io/project/tags/index.html</loc>
     
     <lastmod>2023-10-08</lastmod>
     
@@ -11,16 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/ff05b5bf.html</loc>
-    
-    <lastmod>2023-10-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://xiaofulihao.github.io/project/posts/4a17b156.html</loc>
     
     <lastmod>2023-10-08</lastmod>
     
@@ -30,16 +30,16 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-10-08</lastmod>
+    <loc>https://xiaofulihao.github.io/project</loc>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/hexo-%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2023-10-08</lastmod>
+    <loc>https://xiaofulihao.github.io/project/tags/hexo-%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
