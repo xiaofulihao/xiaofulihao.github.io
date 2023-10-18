@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xiaofulihao.github.io/project/posts/1364c3c0.html</loc>
+    <loc>https://xiaofulihao.github.io/posts/1364c3c0.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://xiaofulihao.github.io/project/posts/ff05b5bf.html</loc>
+    <loc>https://xiaofulihao.github.io/posts/ff05b5bf.html</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://xiaofulihao.github.io/project/tags/index.html</loc>
+    <loc>https://xiaofulihao.github.io/tags/index.html</loc>
     
     <lastmod>2023-10-08</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://xiaofulihao.github.io/project/posts/4a17b156.html</loc>
+    <loc>https://xiaofulihao.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2023-10-08</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>https://xiaofulihao.github.io/project</loc>
+    <loc>https://xiaofulihao.github.io/</loc>
     <lastmod>2023-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -47,14 +47,14 @@
 
   
   <url>
-    <loc>https://xiaofulihao.github.io/project/tags/hexo-%E9%83%A8%E7%BD%B2/</loc>
+    <loc>https://xiaofulihao.github.io/tags/hexo-%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2023-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xiaofulihao.github.io/project/tags/hexo-%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://xiaofulihao.github.io/tags/hexo-%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2023-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
