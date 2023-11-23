@@ -2,9 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaofulihao.github.io/posts/d124439a.html</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaofulihao.github.io/posts/940e0dd9.html</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaofulihao.github.io/posts/b454a04b.html</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaofulihao.github.io/posts/906108c6.html</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaofulihao.github.io/posts/e3093d4f.html</loc>
+    
+    <lastmod>2023-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaofulihao.github.io/posts/c97e2700.html</loc>
+    
+    <lastmod>2023-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaofulihao.github.io/posts/c6714bff.html</loc>
     
-    <lastmod>2023-10-18</lastmod>
+    <lastmod>2023-11-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -37,19 +91,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://xiaofulihao.github.io/posts/4a17b156.html</loc>
-    
-    <lastmod>2023-10-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://xiaofulihao.github.io/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <lastmod>2023-11-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,21 +102,28 @@
   
   <url>
     <loc>https://xiaofulihao.github.io/tags/MySQL/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <lastmod>2023-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaofulihao.github.io/tags/Python-%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2023-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xiaofulihao.github.io/tags/hexo-%E9%83%A8%E7%BD%B2/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <lastmod>2023-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xiaofulihao.github.io/tags/hexo-%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2023-10-18</lastmod>
+    <lastmod>2023-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
